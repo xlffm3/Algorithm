@@ -1,0 +1,14 @@
+
+M
+java:S1128"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ8è³ÅœÍ.
+K
+java:S1128".Remove this unused import 'java.util.Objects'.(¼¸õ›8ûµÓœÍ.
+M
+java:S1128"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8è³ÅœÍ.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ßô‹Ä8Ê”Í.
+O
+java:S1128"-Remove this unused import 'java.util.Arrays'.(î–˜Éüÿÿÿÿ8Ê”Í.
+Q
+java:S1128"4Remove this unused import 'java.util.stream.Stream'.(ó÷”8Ê”Í.
+Z
+java:S1128"8Remove this unused import 'java.util.stream.Collectors'.(Óóº´úÿÿÿÿ8è³ÅœÍ.
