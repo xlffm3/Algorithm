@@ -81,6 +81,4 @@ public class Sudoku_2580 {
         }
         return true;
     }
-
-
 }
