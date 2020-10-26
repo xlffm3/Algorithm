@@ -17,7 +17,6 @@ public class BestAlbum {
         }
         List<String> distinctGenres = new ArrayList<>(album.keySet());
         Collections.sort(distinctGenres, new Comparator<String>() {
-
             @Override
             public int compare(String o1, String o2) {
                 int o1PlaySum = album.get(o1)
