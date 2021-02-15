@@ -1,6 +1,6 @@
 # 📐 Algorithms with Java
 
-> Java 알고리즘 문제를 풀고 소스 코드를 저장해놓는 Repository다.
+> Java 알고리즘 문제를 풀고 소스 코드를 기록으로 남긴다.
 
 <br>
 
