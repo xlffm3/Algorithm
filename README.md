@@ -6,10 +6,10 @@
 
 ## 📑 분류
 
-| No | Title | Repository |
+| No | Title | Package |
 |:---:|:---:|:---:|
-| 1 | 백준 알고리즘 | [baekjoon package](https://github.com/xlffm3/java-algorithms/tree/master/src/baekjoon) |
-| 2 | 프로그래머스 | [programmers package](https://github.com/xlffm3/java-algorithms/tree/master/src/programmers) |
+| 1 | 백준 알고리즘 | [baekjoon](https://github.com/xlffm3/java-algorithms/tree/master/src/baekjoon) |
+| 2 | 프로그래머스 | [programmers](https://github.com/xlffm3/java-algorithms/tree/master/src/programmers) |
 
 <br>
 
